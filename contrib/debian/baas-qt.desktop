@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BaaS
+Comment=BaaS P2P Token
+Comment[fr]=BaaS, jeton cryptographique pair à pair
+Comment[tr]=BaaS, eşten eşe kriptografik jeton
+Exec=baas-qt %u
+Terminal=false
+Type=Application
+Icon=baas128
+MimeType=x-scheme-handler/baas;
+Categories=Office;Finance;

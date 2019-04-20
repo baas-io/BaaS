@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/baas_bg.qm</file>
+        <file alias="ca">locale/baas_ca.qm</file>
+        <file alias="cs">locale/baas_cs.qm</file>
+        <file alias="da">locale/baas_da.qm</file>
+        <file alias="de">locale/baas_de.qm</file>
+        <file alias="en">locale/baas_en.qm</file>
+        <file alias="en_US">locale/baas_en_US.qm</file>
+        <file alias="es">locale/baas_es.qm</file>
+        <file alias="fi">locale/baas_fi.qm</file>
+        <file alias="fr_FR">locale/baas_fr_FR.qm</file>
+        <file alias="it">locale/baas_it.qm</file>
+        <file alias="ja">locale/baas_ja.qm</file>
+        <file alias="ko_KR">locale/baas_ko_KR.qm</file>
+        <file alias="nl">locale/baas_nl.qm</file>
+        <file alias="pl">locale/baas_pl.qm</file>
+        <file alias="pt">locale/baas_pt.qm</file>
+        <file alias="pt_BR">locale/baas_pt_BR.qm</file>
+        <file alias="ro_RO">locale/baas_ro_RO.qm</file>
+        <file alias="ru">locale/baas_ru.qm</file>
+        <file alias="sk">locale/baas_sk.qm</file>
+        <file alias="sv">locale/baas_sv.qm</file>
+        <file alias="uk">locale/baas_uk.qm</file>
+        <file alias="zh_CN">locale/baas_zh_CN.qm</file>
+        <file alias="zh_TW">locale/baas_zh_TW.qm</file>
+    </qresource>
+</RCC>
