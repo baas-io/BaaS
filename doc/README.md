@@ -28,7 +28,7 @@ Drag BaaS-Qt to your applications folder, and then run BaaS-Qt.
 
 * See the documentation at the [BaaS Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [BaaS Forum](http://forum.baas.io/).
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=5133371.0) or on the [BaaS Forum](http://forum.baas.io/).
 * Join our Discord server [Discord Server](https://discord.baas.io)
 * Join one of our Slack groups [BaaS Slack Groups](https://baas.io/slack-logins/).
 
@@ -56,7 +56,7 @@ The BaaS repo's [root README](https://github.com/baas-io/BaaS/blob/master/README
 
 ### Resources
 
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [BaaS](http://forum.baas.io/) forum.
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=5133371.0) or the [BaaS](http://forum.baas.io/) forum.
 * Join the [BaaS-Dev](https://baas-dev.slack.com/) Slack group ([Sign-Up](https://baas-dev.herokuapp.com/)).
 
 ### Miscellaneous

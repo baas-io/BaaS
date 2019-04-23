@@ -379,9 +379,9 @@ For example:
 ```bash
 URL=https://github.com/baas-io/BaaS.git
 COMMIT=b616fb8ef0d49a919b72b0388b091aaec5849b96
-./bin/gbuild --commit baas=${COMMIT} --url baas=${URL} ../baas/contrib/gitian-descriptors/gitian-linux.yml
-./bin/gbuild --commit baas=${COMMIT} --url baas=${URL} ../baas/contrib/gitian-descriptors/gitian-win.yml
-./bin/gbuild --commit baas=${COMMIT} --url baas=${URL} ../baas/contrib/gitian-descriptors/gitian-osx.yml
+./bin/gbuild --commit BaaS=${COMMIT} --url BaaS=${URL} ../BaaS/contrib/gitian-descriptors/gitian-linux.yml
+./bin/gbuild --commit BaaS=${COMMIT} --url BaaS=${URL} ../BaaS/contrib/gitian-descriptors/gitian-win.yml
+./bin/gbuild --commit BaaS=${COMMIT} --url BaaS=${URL} ../BaaS/contrib/gitian-descriptors/gitian-osx.yml
 ```
 
 Signing externally
