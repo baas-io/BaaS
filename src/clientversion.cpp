@@ -46,7 +46,7 @@ const std::string CLIENT_NAME("BaaS Core");
 //! git will put "#define GIT_ARCHIVE 1" on the next line inside archives.
 #define GIT_ARCHIVE 1
 #ifdef GIT_ARCHIVE
-#define BUILD_SUFFIX 20190417
+#define BUILD_SUFFIX 20190423
 #endif
 
 #define BUILD_DESC_WITH_SUFFIX(maj, min, rev, build, suffix) \
