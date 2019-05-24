@@ -54,11 +54,12 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
     (0, uint256("0x000003f9ca33f9768842207387db025c84e897bdd63919f39739b355e1e0ca75"))
-	(2001, uint256("0x2bbc60e7b6e16617c8b553197e29e4a4d4ffca6796c69bc9dd2121bd721a268d"));
+    (2001, uint256("0x2bbc60e7b6e16617c8b553197e29e4a4d4ffca6796c69bc9dd2121bd721a268d"))
+    (50001, uint256("0x14f6e4b9079aa58f79071273d4f91ff1bf316e8483655c7ae0d0c677af678602"));
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1552470286, // * UNIX timestamp of last checkpoint block
-    252000,    // * total number of transactions between genesis and last checkpoint
+    1558641303, // * UNIX timestamp of last checkpoint block
+    98033,    // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     2000        // * estimated number of transactions per day after checkpoint
 };
